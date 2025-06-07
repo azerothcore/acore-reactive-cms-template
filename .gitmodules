@@ -1,0 +1,3 @@
+[submodule "packages/acore-reactive-cms"]
+	path = packages/acore-reactive-cms
+	url = git@github.com:azerothcore/acore-reactive-cms.git

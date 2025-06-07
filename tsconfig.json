@@ -1,0 +1,3 @@
+{
+  "extends": "./packages/acore-reactive-cms/tsconfig.json"
+}
