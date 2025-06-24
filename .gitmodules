@@ -1,3 +1,6 @@
 [submodule "packages/acore-reactive-cms"]
 	path = packages/acore-reactive-cms
 	url = git@github.com:azerothcore/acore-reactive-cms.git
+[submodule "packages/reactive-yalc"]
+	path = packages/reactive-yalc
+	url = git@github.com:Drassil/reactive-yalc.git
