@@ -9,7 +9,7 @@
     "pnpm": ">=10.0.0"
   },
   "scripts": {
-    "preinstall": "git submodule update --init --recursive",
+    "preinstall": "git config submodule.recurse true && git submodule update --init --recursive",
     "build": "npx react-router build",
     "dev": "npx react-router dev",
     "lint": "eslint .",
